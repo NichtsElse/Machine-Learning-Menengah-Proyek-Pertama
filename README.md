@@ -37,6 +37,3 @@ project
 └── README.md
 ```
 
-## 📸 Screenshots
-
-
