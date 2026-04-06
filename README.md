@@ -39,15 +39,4 @@ project
 
 ## 📸 Screenshots
 
-## 🤝 Contributing
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-## 📝 License
-This project is licensed under the MIT License.
-
-## 📬 Contact
-For any questions or concerns, please contact us at [insert contact email].
-
-## 💖 Thanks Message
-A huge thank you to everyone who has contributed to this project! 🙏
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
